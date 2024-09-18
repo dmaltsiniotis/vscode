@@ -1,0 +1,96 @@
+{
+    "azureFunctions.showProjectWarning": false,
+    "cSpell.diagnosticLevel": "Hint",
+    "cSpell.userWords": [
+        "DICOM",
+        "Screeps"
+    ],
+    "azureResourceManagerTools.parameterFiles": {},
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "dotnetAcquisitionExtension.enableTelemetry": false,
+    "editor.foldingMaximumRegions": 10000,
+    "editor.inlineSuggest.enabled": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.suggestSelection": "first",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.sortOrder": "type",
+    "extensions.autoUpdate": false,
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+        "*.yml": "yaml"
+    },
+    "git.defaultBranchName": "master",
+    "git.openRepositoryInParentFolders": "never",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github.copilot.enable": {
+        "*": true,
+        "markdown": false,
+        "plaintext": true,
+        "scminput": false
+    },
+    "idf.customExtraPaths": "C:\\dev\\esp32\\esp-tools\\tools\\xtensa-esp-elf-gdb\\14.2_20240403\\xtensa-esp-elf-gdb\\bin;C:\\dev\\esp32\\esp-tools\\tools\\riscv32-esp-elf-gdb\\14.2_20240403\\riscv32-esp-elf-gdb\\bin;C:\\dev\\esp32\\esp-tools\\tools\\xtensa-esp-elf\\esp-13.2.0_20240530\\xtensa-esp-elf\\bin;C:\\dev\\esp32\\esp-tools\\tools\\riscv32-esp-elf\\esp-13.2.0_20240530\\riscv32-esp-elf\\bin;C:\\dev\\esp32\\esp-tools\\tools\\esp32ulp-elf\\2.38_20240113\\esp32ulp-elf\\bin;C:\\dev\\esp32\\esp-tools\\tools\\cmake\\3.24.0\\bin;C:\\dev\\esp32\\esp-tools\\tools\\openocd-esp32\\v0.12.0-esp32-20240318\\openocd-esp32\\bin;C:\\dev\\esp32\\esp-tools\\tools\\ninja\\1.11.1;C:\\dev\\esp32\\esp-tools\\tools\\idf-exe\\1.0.3;C:\\dev\\esp32\\esp-tools\\tools\\ccache\\4.8\\ccache-4.8-windows-x86_64;C:\\dev\\esp32\\esp-tools\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;C:\\dev\\esp32\\esp-tools\\tools\\esp-rom-elfs\\20240305",
+    "idf.customExtraVars": {
+        "ESP_ROM_ELF_DIR": "C:\\dev\\esp32\\esp-tools\\tools\\esp-rom-elfs\\20240305/",
+        "IDF_CCACHE_ENABLE": "1",
+        "OPENOCD_SCRIPTS": "C:\\dev\\esp32\\esp-tools\\tools\\openocd-esp32\\v0.12.0-esp32-20240318/openocd-esp32/share/openocd/scripts"
+    },
+    "idf.espIdfPathWin": "c:\\dev\\esp32\\esp-idf\\v5.3\\esp-idf",
+    "idf.gitPathWin": "C:\\dev\\esp32\\esp-tools\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
+    "idf.pythonBinPathWin": "C:\\dev\\esp32\\esp-tools\\python_env\\idf5.3_py3.11_env\\Scripts\\python.exe",
+    "idf.saveScope": 1,
+    "idf.toolsPathWin": "C:\\dev\\esp32\\esp-tools",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "json.maxItemsComputed": 10000,
+    "security.workspace.trust.untrustedFiles": "open",
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.bellDuration": 500,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "terminal.integrated.persistentSessionScrollback": 1000,
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt": {
+            "args": [],
+            "icon": "terminal-cmd",
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ]
+        },
+        "Debian (WSL)": {
+            "args": [
+                "-d",
+                "Debian"
+            ],
+            "path": "C:\\WINDOWS\\System32\\wsl.exe"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "PowerShell": {
+            "icon": "terminal-powershell",
+            "source": "PowerShell"
+        }
+    },
+    "terminal.integrated.scrollback": 10000,
+    "vetur.completion.autoImport": false,
+    "vetur.ignoreProjectWarning": true,
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.startupEditor": "none",
+    "workbench.tree.enableStickyScroll": false,
+    "[arm-template]": {},
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.localHistory.enabled": false
+}
